@@ -1,4 +1,5 @@
-git is adistributed version control systerm.
+git is a distributed version control systerm.
 git is free software.
 git is free.
 git is of great value.
+git is one of the best version control systerms.
